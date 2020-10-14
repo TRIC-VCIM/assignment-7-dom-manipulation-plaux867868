@@ -1,0 +1,25 @@
+body {
+  font-family: helvetica;
+  background-color:aqua;
+}
+
+h1 {
+  text-decoration: underline;
+}
+
+table {
+  border: 2px solid black;
+}
+
+.tablediv {
+  padding-top: 15px;
+}
+
+.toprow {
+  text-decoration: underline;
+}
+
+.topmoviescolor {
+  background-color: yellow;
+  font-weight: bolder;
+}
